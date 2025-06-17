@@ -2,7 +2,7 @@
 
 This leverages historical crime data and applys the ARIMA time series model to predict future crime trends segmented by region, demographic and crime types.
 
-
+ 
 ## Functions
 - Real Time Crime Monitoring
 - Prediction of Crime Trends
